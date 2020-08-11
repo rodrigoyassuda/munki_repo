@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1Password_1.png</key>
+	<string>91bbf0fc783993cbf1b33c6ef8080c4b45d16c893e7fef7de9d5e254f034124e</string>
+	<key>1Password_2.png</key>
+	<string>91bbf0fc783993cbf1b33c6ef8080c4b45d16c893e7fef7de9d5e254f034124e</string>
+	<key>1Password_3.png</key>
+	<string>3b3e78acc38be373da16da6b63cd8e4ac812b85d75ccb98c708b6c4debf43552</string>
+	<key>Backup and Sync.png</key>
+	<string>d1cd2acf8df552918ce4a072450381f550127fe2983eae187f7c5e1fd5f7a088</string>
+	<key>Chrome.png</key>
+	<string>be4a7aca7958a43787b23a4911b58d8cf6ddf34992b50971290d141192bd6666</string>
+	<key>Code.png</key>
+	<string>36a3a1ee25b7336a3f3cf19cbd5eaba8be9dbcbbf67e90161dcd77695bd1a856</string>
+	<key>Docker.png</key>
+	<string>46b8c296dbbbd55ef8b4d2632b66f2cae3c50ca1006168210c1ecf993e71fdce</string>
+	<key>Firefox.png</key>
+	<string>c9b58b01cf030d874c518573812ecec9ac9e81b720770c75a833e32f6f220f4e</string>
+	<key>GIMP-2.10.png</key>
+	<string>5fa12744cc58d8049da0972976a1e92dfc77c394f1ba644c4050616456850b70</string>
+	<key>GIMP.png</key>
+	<string>5fa12744cc58d8049da0972976a1e92dfc77c394f1ba644c4050616456850b70</string>
+	<key>Insomnia Designer.png</key>
+	<string>9023c0705f511835707f8d69824a9b34762adf38e1887d6ef36c95c6bea91389</string>
+	<key>MunkiAdmin.png</key>
+	<string>09df251e86760c852e828b06f520ff4d7c504ff85391ec3160a08e3acd2ef34d</string>
+	<key>MySQLWorkbench.png</key>
+	<string>e75071adf94bcd9f63188d1b2ce7a74c616feade042921444391c84bf252ed6b</string>
+	<key>Postman.png</key>
+	<string>f4c0f6e089e9a87747cbb65551f11a692ade95537daf82c7de26b01f26c7889c</string>
+	<key>Robo 3T.png</key>
+	<string>f56de09a0c5c1c607c3054e1ae1e18c21ca58be0e17e8e2fbfec710b848a3e47</string>
+	<key>Sequel Pro.png</key>
+	<string>089a2aaedfe5d1fa7da2a9235be42252420b4411109246364af975526d9d9668</string>
+	<key>Slack.png</key>
+	<string>cdc829ba1253f64b5d77fbabddd40d79148d496d7e78d89735ecb8cfdcac0e2e</string>
+	<key>Sublime Text.png</key>
+	<string>92552ec1f7a4244d2b21d728e15ebfadb79f0fa14e59867688c923037b4544f5</string>
+	<key>TextMate.png</key>
+	<string>fdf490bc073088b237f1de96c16dae60041ad3b64fc332ce2d4c37ead12bfbd7</string>
+	<key>The Unarchiver.png</key>
+	<string>ae4cb62372f6d56f8d2070fa4cbea2e6cf21a02bd7aa0e3551da64af522cfe38</string>
+	<key>VLC media player.png</key>
+	<string>15a8ed7a274a7a77674bdc027818eff6ded8b293542989e46b51b34d8c3dd251</string>
+	<key>WhatsApp.png</key>
+	<string>5e6725c87898c7794c325a949bd8a6b172298304b9881d98aa8a7dced18dc09a</string>
+	<key>iTerm2.png</key>
+	<string>e549707d726a159f5768042475131814cf0ef82825257d0d346c2d3431e36150</string>
+	<key>jumpcloud-agent.png</key>
+	<string>4e05ecadc6890c9b85c84fdb8842ed791a56367768272f3e8b3a92aa94861d95</string>
+</dict>
+</plist>

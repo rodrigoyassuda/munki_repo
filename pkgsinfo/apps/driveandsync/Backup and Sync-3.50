@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>_metadata</key>
+	<dict>
+		<key>created_by</key>
+		<string>rodrigo.yassuda</string>
+		<key>creation_date</key>
+		<date>2020-08-10T16:23:00Z</date>
+		<key>munki_version</key>
+		<string>5.0.1.4059</string>
+		<key>os_version</key>
+		<string>10.15.6</string>
+	</dict>
+	<key>autoremove</key>
+	<false/>
+	<key>catalogs</key>
+	<array>
+		<string>testing</string>
+	</array>
+	<key>category</key>
+	<string>Internet</string>
+	<key>description</key>
+	<string>Upload and store files from any folder on your computer, camera and SD cards in the cloud. You can find your content on any phone, tablet or computer using Google Drive, as well as your photos and videos in Google Photos</string>
+	<key>developer</key>
+	<string>Google</string>
+	<key>display_name</key>
+	<string>Google Backup and Sync</string>
+	<key>installer_item_hash</key>
+	<string>ed2bd4fddc2a0dd536d84657981887031c2f2e449fee775b95fd495188fa42e8</string>
+	<key>installer_item_location</key>
+	<string>apps/driveandsync/InstallBackupAndSync-3.50.dmg</string>
+	<key>installer_item_size</key>
+	<integer>47609</integer>
+	<key>installer_type</key>
+	<string>copy_from_dmg</string>
+	<key>installs</key>
+	<array>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>com.google.GoogleDrive</string>
+			<key>CFBundleName</key>
+			<string>Backup and Sync</string>
+			<key>CFBundleShortVersionString</key>
+			<string>3.50</string>
+			<key>CFBundleVersion</key>
+			<string>3.50.3212.1361</string>
+			<key>minosversion</key>
+			<string>10.12.0</string>
+			<key>path</key>
+			<string>/Applications/Backup and Sync.app</string>
+			<key>type</key>
+			<string>application</string>
+			<key>version_comparison_key</key>
+			<string>CFBundleShortVersionString</string>
+		</dict>
+	</array>
+	<key>items_to_copy</key>
+	<array>
+		<dict>
+			<key>destination_path</key>
+			<string>/Applications</string>
+			<key>source_item</key>
+			<string>Backup and Sync.app</string>
+		</dict>
+	</array>
+	<key>minimum_os_version</key>
+	<string>10.12.0</string>
+	<key>name</key>
+	<string>Backup and Sync</string>
+	<key>unattended_install</key>
+	<true/>
+	<key>unattended_uninstall</key>
+	<false/>
+	<key>uninstall_method</key>
+	<string>remove_copied_items</string>
+	<key>uninstallable</key>
+	<true/>
+	<key>version</key>
+	<string>3.50</string>
+</dict>
+</plist>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalogs</key>
+	<array>
+		<string>testing</string>
+	</array>
+	<key>featured_items</key>
+	<array>
+		<string>Firefox</string>
+		<string>Chrome</string>
+		<string>Slack</string>
+		<string>Backup and Sync</string>
+		<string>1Password</string>
+		<string>jumpcloud-agent</string>
+	</array>
+	<key>included_manifests</key>
+	<array/>
+	<key>managed_installs</key>
+	<array/>
+	<key>managed_uninstalls</key>
+	<array/>
+	<key>optional_installs</key>
+	<array>
+		<string>Postman</string>
+		<string>Insomnia Designer</string>
+		<string>1Password</string>
+		<string>The Unarchiver</string>
+		<string>Backup and Sync</string>
+		<string>TextMate</string>
+		<string>VLC media player</string>
+		<string>VirtualBox</string>
+		<string>Code</string>
+		<string>Firefox</string>
+		<string>MySQLWorkbench</string>
+		<string>iTerm2</string>
+		<string>Sequel Pro</string>
+		<string>Sublime Text</string>
+		<string>Robo 3T</string>
+		<string>Chrome</string>
+		<string>Slack</string>
+		<string>GIMP</string>
+		<string>jumpcloud-agent</string>
+		<string>WhatsApp</string>
+		<string>Spotify</string>
+		<string>Docker</string>
+		<string>MunkiAdmin</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>_metadata</key>
+	<dict>
+		<key>created_by</key>
+		<string>rodrigo.yassuda</string>
+		<key>creation_date</key>
+		<date>2020-08-10T16:27:32Z</date>
+		<key>munki_version</key>
+		<string>5.0.1.4059</string>
+		<key>os_version</key>
+		<string>10.15.6</string>
+	</dict>
+	<key>autoremove</key>
+	<false/>
+	<key>catalogs</key>
+	<array>
+		<string>testing</string>
+	</array>
+	<key>category</key>
+	<string>Audio e Video</string>
+	<key>description</key>
+	<string>Player de video a música Open Source</string>
+	<key>developer</key>
+	<string>VLC</string>
+	<key>display_name</key>
+	<string>VLC media player</string>
+	<key>installer_item_hash</key>
+	<string>021212d2f6e6701ec3b254d56dfa5c5f848c9c02813c5750c6944a8458de8fb5</string>
+	<key>installer_item_location</key>
+	<string>apps/vlc/vlc-3.0.11.1.dmg</string>
+	<key>installer_item_size</key>
+	<integer>50753</integer>
+	<key>installer_type</key>
+	<string>copy_from_dmg</string>
+	<key>installs</key>
+	<array>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>org.videolan.vlc</string>
+			<key>CFBundleName</key>
+			<string>VLC media player</string>
+			<key>CFBundleShortVersionString</key>
+			<string>3.0.11.1</string>
+			<key>CFBundleVersion</key>
+			<string>3.0.11.1</string>
+			<key>minosversion</key>
+			<string>10.7.5</string>
+			<key>path</key>
+			<string>/Applications/VLC.app</string>
+			<key>type</key>
+			<string>application</string>
+			<key>version_comparison_key</key>
+			<string>CFBundleShortVersionString</string>
+		</dict>
+	</array>
+	<key>items_to_copy</key>
+	<array>
+		<dict>
+			<key>destination_path</key>
+			<string>/Applications</string>
+			<key>source_item</key>
+			<string>VLC.app</string>
+		</dict>
+	</array>
+	<key>minimum_os_version</key>
+	<string>10.7.5</string>
+	<key>name</key>
+	<string>VLC media player</string>
+	<key>unattended_install</key>
+	<false/>
+	<key>unattended_uninstall</key>
+	<false/>
+	<key>uninstall_method</key>
+	<string>remove_copied_items</string>
+	<key>uninstallable</key>
+	<true/>
+	<key>version</key>
+	<string>3.0.11.1</string>
+</dict>
+</plist>

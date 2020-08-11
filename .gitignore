@@ -1,0 +1,10 @@
+# Skip directories
+catalogs
+pkgs
+
+# Skip all dmg files
+*.dmg
+# Skip all packages
+*.pkg
+*.mpkg
+*.DS_Store

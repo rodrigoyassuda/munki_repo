@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>_metadata</key>
+	<dict>
+		<key>created_by</key>
+		<string>rodrigo.yassuda</string>
+		<key>creation_date</key>
+		<date>2020-08-10T23:30:41Z</date>
+		<key>munki_version</key>
+		<string>5.0.1.4059</string>
+		<key>os_version</key>
+		<string>10.15.6</string>
+	</dict>
+	<key>autoremove</key>
+	<false/>
+	<key>catalogs</key>
+	<array>
+		<string>testing</string>
+	</array>
+	<key>category</key>
+	<string>Tools</string>
+	<key>description</key>
+	<string>jumpcloud enrolment agent</string>
+	<key>developer</key>
+	<string>Jumpcloud</string>
+	<key>display_name</key>
+	<string>Jumpcloud Agent</string>
+	<key>installed_size</key>
+	<integer>44884</integer>
+	<key>installer_item_hash</key>
+	<string>74d7fbf5889a8ae591a3fbff3554bbde07a4a5337bad19905299d3e1f23972bc</string>
+	<key>installer_item_location</key>
+	<string>apps/jumpcloud/jumpcloud-agent__1.pkg</string>
+	<key>installer_item_size</key>
+	<integer>21778</integer>
+	<key>minimum_os_version</key>
+	<string>10.5.0</string>
+	<key>name</key>
+	<string>jumpcloud-agent</string>
+	<key>receipts</key>
+	<array>
+		<dict>
+			<key>installed_size</key>
+			<integer>44884</integer>
+			<key>packageid</key>
+			<string>com.jumpcloud.darwin-agent</string>
+			<key>version</key>
+			<string>0.61.0</string>
+		</dict>
+	</array>
+	<key>unattended_install</key>
+	<false/>
+	<key>unattended_uninstall</key>
+	<false/>
+	<key>uninstall_method</key>
+	<string>removepackages</string>
+	<key>uninstallable</key>
+	<true/>
+	<key>version</key>
+	<string>0.61.0</string>
+</dict>
+</plist>
