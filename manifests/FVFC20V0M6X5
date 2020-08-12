@@ -5,26 +5,19 @@
 	<key>catalogs</key>
 	<array>
 		<string>Production</string>
+		<string>Tecnologia</string>
 	</array>
-	<key>featured_items</key>
-	<array>
-		<string>1Password</string>
-		<string>Backup and Sync</string>
-		<string>Chrome</string>
-		<string>Firefox</string>
-		<string>jumpcloud-agent</string>
-		<string>Slack</string>
-	</array>
+	<key>display_name</key>
+	<string>FVFC20V0M6X5</string>
 	<key>included_manifests</key>
-	<array/>
-	<key>managed_installs</key>
-	<array/>
-	<key>managed_uninstalls</key>
-	<array/>
+	<array>
+		<string>site_default</string>
+	</array>
 	<key>managed_updates</key>
 	<array>
 		<string>Chrome</string>
 		<string>jumpcloud-agent</string>
+		<string>MunkiAdmin</string>
 		<string>Slack</string>
 	</array>
 	<key>optional_installs</key>
@@ -45,7 +38,6 @@
 		<string>Robo 3T</string>
 		<string>Sequel Pro</string>
 		<string>Slack</string>
-		<string>Spotify</string>
 		<string>Sublime Text</string>
 		<string>TextMate</string>
 		<string>The Unarchiver</string>

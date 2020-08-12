@@ -18,9 +18,10 @@
 	<key>catalogs</key>
 	<array>
 		<string>testing</string>
+		<string>Production</string>
 	</array>
 	<key>category</key>
-	<string>Dev</string>
+	<string>Developing</string>
 	<key>description</key>
 	<string>iTerm2 is a replacement for Terminal and the successor to iTerm. It works on Macs with macOS 10.12 or newer. iTerm2 brings the terminal into the modern age with features you never knew you always wanted</string>
 	<key>developer</key>

@@ -8,6 +8,7 @@
 		<key>catalogs</key>
 		<array>
 			<string>testing</string>
+			<string>Production</string>
 		</array>
 		<key>category</key>
 		<string>Tools</string>
@@ -76,74 +77,7 @@
 		<key>catalogs</key>
 		<array>
 			<string>testing</string>
-		</array>
-		<key>category</key>
-		<string>Internet</string>
-		<key>description</key>
-		<string>Browser gratuito da Mozilla</string>
-		<key>developer</key>
-		<string>Mozilla</string>
-		<key>display_name</key>
-		<string>Mozilla Firefox</string>
-		<key>installer_item_hash</key>
-		<string>9d76f62ff32851605cd83d6e91963fe246f674331c87d74dacb6a4d4d75adabe</string>
-		<key>installer_item_location</key>
-		<string>apps/mozilla/Firefox 79.0__1.dmg</string>
-		<key>installer_item_size</key>
-		<integer>73363</integer>
-		<key>installer_type</key>
-		<string>copy_from_dmg</string>
-		<key>installs</key>
-		<array>
-			<dict>
-				<key>CFBundleIdentifier</key>
-				<string>org.mozilla.firefox</string>
-				<key>CFBundleName</key>
-				<string>Firefox</string>
-				<key>CFBundleShortVersionString</key>
-				<string>79.0</string>
-				<key>CFBundleVersion</key>
-				<string>7920.7.20</string>
-				<key>minosversion</key>
-				<string>10.12.0</string>
-				<key>path</key>
-				<string>/Applications/Firefox.app</string>
-				<key>type</key>
-				<string>application</string>
-				<key>version_comparison_key</key>
-				<string>CFBundleShortVersionString</string>
-			</dict>
-		</array>
-		<key>items_to_copy</key>
-		<array>
-			<dict>
-				<key>destination_path</key>
-				<string>/Applications</string>
-				<key>source_item</key>
-				<string>Firefox.app</string>
-			</dict>
-		</array>
-		<key>minimum_os_version</key>
-		<string>10.12.0</string>
-		<key>name</key>
-		<string>Firefox</string>
-		<key>unattended_install</key>
-		<false/>
-		<key>unattended_uninstall</key>
-		<false/>
-		<key>uninstall_method</key>
-		<string>remove_copied_items</string>
-		<key>uninstallable</key>
-		<true/>
-		<key>version</key>
-		<string>79.0</string>
-	</dict>
-	<dict>
-		<key>autoremove</key>
-		<false/>
-		<key>catalogs</key>
-		<array>
-			<string>testing</string>
+			<string>Production</string>
 		</array>
 		<key>category</key>
 		<string>Internet</string>
@@ -212,9 +146,10 @@
 		<key>catalogs</key>
 		<array>
 			<string>testing</string>
+			<string>Production</string>
 		</array>
 		<key>category</key>
-		<string>Dev</string>
+		<string>Developing</string>
 		<key>description</key>
 		<string>Docker Desktop is a tool for MacOS and Windows machines for the building and sharing of containerized applications and microservices</string>
 		<key>developer</key>
@@ -280,9 +215,10 @@
 		<key>catalogs</key>
 		<array>
 			<string>testing</string>
+			<string>Production</string>
 		</array>
 		<key>category</key>
-		<string>Dev</string>
+		<string>Developing</string>
 		<key>description</key>
 		<string>Gerenciador de banco de dados MySQL</string>
 		<key>developer</key>
@@ -347,7 +283,7 @@
 		<false/>
 		<key>catalogs</key>
 		<array>
-			<string>testing</string>
+			<string>Tecnologia</string>
 		</array>
 		<key>category</key>
 		<string>Tools</string>
@@ -416,9 +352,10 @@
 		<key>catalogs</key>
 		<array>
 			<string>testing</string>
+			<string>Production</string>
 		</array>
 		<key>category</key>
-		<string>Dev</string>
+		<string>Developing</string>
 		<key>description</key>
 		<string>Ferramenta colaborativa de Design de API's</string>
 		<key>developer</key>
@@ -484,6 +421,7 @@
 		<key>catalogs</key>
 		<array>
 			<string>testing</string>
+			<string>Production</string>
 		</array>
 		<key>category</key>
 		<string>Internet</string>
@@ -552,9 +490,10 @@
 		<key>catalogs</key>
 		<array>
 			<string>testing</string>
+			<string>Production</string>
 		</array>
 		<key>category</key>
-		<string>Dev</string>
+		<string>Developing</string>
 		<key>description</key>
 		<string>Editor de texto com suporte a várias linguagens de programação</string>
 		<key>developer</key>
@@ -620,9 +559,10 @@
 		<key>catalogs</key>
 		<array>
 			<string>testing</string>
+			<string>Production</string>
 		</array>
 		<key>category</key>
-		<string>Dev</string>
+		<string>Developing</string>
 		<key>description</key>
 		<string>Ferramenta colaborativa de Design de API's</string>
 		<key>developer</key>
@@ -688,9 +628,10 @@
 		<key>catalogs</key>
 		<array>
 			<string>testing</string>
+			<string>Production</string>
 		</array>
 		<key>category</key>
-		<string>Dev</string>
+		<string>Developing</string>
 		<key>description</key>
 		<string>Software de virtualização Open Source</string>
 		<key>developer</key>
@@ -761,79 +702,7 @@
 		<key>catalogs</key>
 		<array>
 			<string>testing</string>
-		</array>
-		<key>category</key>
-		<string>Dev</string>
-		<key>description</key>
-		<string>Software de virtualização Open Source</string>
-		<key>developer</key>
-		<string>Oracle</string>
-		<key>display_name</key>
-		<string>VirtualBox</string>
-		<key>installed_size</key>
-		<integer>247345</integer>
-		<key>installer_item_hash</key>
-		<string>96c45572213e68fb58ee6669f99caf1126e61495de7e710363350e07f3a1c4d6</string>
-		<key>installer_item_location</key>
-		<string>apps/virtualbox/VirtualBox-6.1.12-139181-OSX__1.dmg</string>
-		<key>installer_item_size</key>
-		<integer>120939</integer>
-		<key>minimum_os_version</key>
-		<string>10.5.0</string>
-		<key>name</key>
-		<string>VirtualBox</string>
-		<key>receipts</key>
-		<array>
-			<dict>
-				<key>installed_size</key>
-				<integer>1185</integer>
-				<key>packageid</key>
-				<string>org.virtualbox.pkg.vboxkexts</string>
-				<key>version</key>
-				<string>6.1.12</string>
-			</dict>
-			<dict>
-				<key>installed_size</key>
-				<integer>241439</integer>
-				<key>packageid</key>
-				<string>org.virtualbox.pkg.virtualbox</string>
-				<key>version</key>
-				<string>6.1.12</string>
-			</dict>
-			<dict>
-				<key>installed_size</key>
-				<integer>6</integer>
-				<key>packageid</key>
-				<string>org.virtualbox.pkg.virtualboxcli</string>
-				<key>version</key>
-				<string>6.1.12</string>
-			</dict>
-			<dict>
-				<key>installed_size</key>
-				<integer>4715</integer>
-				<key>packageid</key>
-				<string>com.github.osxfuse.pkg.Core</string>
-				<key>version</key>
-				<string>3.10.4</string>
-			</dict>
-		</array>
-		<key>unattended_install</key>
-		<false/>
-		<key>unattended_uninstall</key>
-		<false/>
-		<key>uninstall_method</key>
-		<string>removepackages</string>
-		<key>uninstallable</key>
-		<true/>
-		<key>version</key>
-		<string>6.1.12</string>
-	</dict>
-	<dict>
-		<key>autoremove</key>
-		<false/>
-		<key>catalogs</key>
-		<array>
-			<string>testing</string>
+			<string>Production</string>
 		</array>
 		<key>category</key>
 		<string>Audio e Video</string>
@@ -902,77 +771,10 @@
 		<key>catalogs</key>
 		<array>
 			<string>testing</string>
+			<string>Production</string>
 		</array>
 		<key>category</key>
-		<string>Internet</string>
-		<key>description</key>
-		<string>Upload and store files from any folder on your computer, camera and SD cards in the cloud. You can find your content on any phone, tablet or computer using Google Drive, as well as your photos and videos in Google Photos</string>
-		<key>developer</key>
-		<string>Google</string>
-		<key>display_name</key>
-		<string>Google Backup and Sync</string>
-		<key>installer_item_hash</key>
-		<string>ed2bd4fddc2a0dd536d84657981887031c2f2e449fee775b95fd495188fa42e8</string>
-		<key>installer_item_location</key>
-		<string>apps/backupandsync/InstallBackupAndSync-3.50.dmg</string>
-		<key>installer_item_size</key>
-		<integer>47609</integer>
-		<key>installer_type</key>
-		<string>copy_from_dmg</string>
-		<key>installs</key>
-		<array>
-			<dict>
-				<key>CFBundleIdentifier</key>
-				<string>com.google.GoogleDrive</string>
-				<key>CFBundleName</key>
-				<string>Backup and Sync</string>
-				<key>CFBundleShortVersionString</key>
-				<string>3.50</string>
-				<key>CFBundleVersion</key>
-				<string>3.50.3212.1361</string>
-				<key>minosversion</key>
-				<string>10.12.0</string>
-				<key>path</key>
-				<string>/Applications/Backup and Sync.app</string>
-				<key>type</key>
-				<string>application</string>
-				<key>version_comparison_key</key>
-				<string>CFBundleShortVersionString</string>
-			</dict>
-		</array>
-		<key>items_to_copy</key>
-		<array>
-			<dict>
-				<key>destination_path</key>
-				<string>/Applications</string>
-				<key>source_item</key>
-				<string>Backup and Sync.app</string>
-			</dict>
-		</array>
-		<key>minimum_os_version</key>
-		<string>10.12.0</string>
-		<key>name</key>
-		<string>Backup and Sync</string>
-		<key>unattended_install</key>
-		<true/>
-		<key>unattended_uninstall</key>
-		<false/>
-		<key>uninstall_method</key>
-		<string>remove_copied_items</string>
-		<key>uninstallable</key>
-		<true/>
-		<key>version</key>
-		<string>3.50</string>
-	</dict>
-	<dict>
-		<key>autoremove</key>
-		<false/>
-		<key>catalogs</key>
-		<array>
-			<string>testing</string>
-		</array>
-		<key>category</key>
-		<string>Dev</string>
+		<string>Developing</string>
 		<key>description</key>
 		<string>iTerm2 is a replacement for Terminal and the successor to iTerm. It works on Macs with macOS 10.12 or newer. iTerm2 brings the terminal into the modern age with features you never knew you always wanted</string>
 		<key>developer</key>
@@ -1038,74 +840,7 @@
 		<key>catalogs</key>
 		<array>
 			<string>testing</string>
-		</array>
-		<key>category</key>
-		<string>Dev</string>
-		<key>description</key>
-		<string>iTerm2 is a replacement for Terminal and the successor to iTerm. It works on Macs with macOS 10.12 or newer. iTerm2 brings the terminal into the modern age with features you never knew you always wanted.</string>
-		<key>developer</key>
-		<string>iTerm2</string>
-		<key>display_name</key>
-		<string>iTerm2</string>
-		<key>installer_item_hash</key>
-		<string>21836ec518db3b1652dff7cde02d00f046600bd700b8bc23cc4124bce66dbf1f</string>
-		<key>installer_item_location</key>
-		<string>apps/iterm2/iTerm.dmg</string>
-		<key>installer_item_size</key>
-		<integer>15491</integer>
-		<key>installer_type</key>
-		<string>copy_from_dmg</string>
-		<key>installs</key>
-		<array>
-			<dict>
-				<key>CFBundleIdentifier</key>
-				<string>com.googlecode.iterm2</string>
-				<key>CFBundleName</key>
-				<string>iTerm2</string>
-				<key>CFBundleShortVersionString</key>
-				<string>3.3.12</string>
-				<key>CFBundleVersion</key>
-				<string>3.3.12</string>
-				<key>minosversion</key>
-				<string>10.12</string>
-				<key>path</key>
-				<string>/Applications/iTerm.app</string>
-				<key>type</key>
-				<string>application</string>
-				<key>version_comparison_key</key>
-				<string>CFBundleShortVersionString</string>
-			</dict>
-		</array>
-		<key>items_to_copy</key>
-		<array>
-			<dict>
-				<key>destination_path</key>
-				<string>/Applications</string>
-				<key>source_item</key>
-				<string>iTerm.app</string>
-			</dict>
-		</array>
-		<key>minimum_os_version</key>
-		<string>10.12</string>
-		<key>name</key>
-		<string>iTerm2</string>
-		<key>unattended_install</key>
-		<false/>
-		<key>unattended_uninstall</key>
-		<false/>
-		<key>uninstall_method</key>
-		<string>remove_copied_items</string>
-		<key>uninstallable</key>
-		<true/>
-		<key>version</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>autoremove</key>
-		<false/>
-		<key>catalogs</key>
-		<array>
-			<string>testing</string>
+			<string>Production</string>
 		</array>
 		<key>category</key>
 		<string>Internet</string>
@@ -1174,9 +909,10 @@
 		<key>catalogs</key>
 		<array>
 			<string>testing</string>
+			<string>Production</string>
 		</array>
 		<key>category</key>
-		<string>Dev</string>
+		<string>Developing</string>
 		<key>description</key>
 		<string>Leve, free e open source MondoDB Gui</string>
 		<key>developer</key>
@@ -1240,9 +976,10 @@
 		<key>catalogs</key>
 		<array>
 			<string>testing</string>
+			<string>Production</string>
 		</array>
 		<key>category</key>
-		<string>Dev</string>
+		<string>Developing</string>
 		<key>description</key>
 		<string>Ferramenta visual para banco de dados</string>
 		<key>developer</key>
@@ -1308,6 +1045,7 @@
 		<key>catalogs</key>
 		<array>
 			<string>testing</string>
+			<string>Production</string>
 		</array>
 		<key>category</key>
 		<string>Internet</string>
@@ -1376,55 +1114,7 @@
 		<key>catalogs</key>
 		<array>
 			<string>testing</string>
-		</array>
-		<key>category</key>
-		<string>Tools</string>
-		<key>description</key>
-		<string>jumpcloud enrolment agent</string>
-		<key>developer</key>
-		<string>Jumpcloud</string>
-		<key>display_name</key>
-		<string>Jumpcloud Agent</string>
-		<key>installed_size</key>
-		<integer>44884</integer>
-		<key>installer_item_hash</key>
-		<string>74d7fbf5889a8ae591a3fbff3554bbde07a4a5337bad19905299d3e1f23972bc</string>
-		<key>installer_item_location</key>
-		<string>apps/jumpcloud/jumpcloud-agent__1.pkg</string>
-		<key>installer_item_size</key>
-		<integer>21778</integer>
-		<key>minimum_os_version</key>
-		<string>10.5.0</string>
-		<key>name</key>
-		<string>jumpcloud-agent</string>
-		<key>receipts</key>
-		<array>
-			<dict>
-				<key>installed_size</key>
-				<integer>44884</integer>
-				<key>packageid</key>
-				<string>com.jumpcloud.darwin-agent</string>
-				<key>version</key>
-				<string>0.61.0</string>
-			</dict>
-		</array>
-		<key>unattended_install</key>
-		<false/>
-		<key>unattended_uninstall</key>
-		<false/>
-		<key>uninstall_method</key>
-		<string>removepackages</string>
-		<key>uninstallable</key>
-		<true/>
-		<key>version</key>
-		<string>0.61.0</string>
-	</dict>
-	<dict>
-		<key>autoremove</key>
-		<false/>
-		<key>catalogs</key>
-		<array>
-			<string>testing</string>
+			<string>Production</string>
 		</array>
 		<key>category</key>
 		<string>Tools</string>
@@ -1474,9 +1164,10 @@
 		<key>catalogs</key>
 		<array>
 			<string>testing</string>
+			<string>Production</string>
 		</array>
 		<key>category</key>
-		<string>Dev</string>
+		<string>Developing</string>
 		<key>description</key>
 		<string>Free. Built on open source</string>
 		<key>developer</key>
@@ -1542,6 +1233,7 @@
 		<key>catalogs</key>
 		<array>
 			<string>testing</string>
+			<string>Production</string>
 		</array>
 		<key>category</key>
 		<string>Internet</string>
@@ -1610,9 +1302,10 @@
 		<key>catalogs</key>
 		<array>
 			<string>testing</string>
+			<string>Production</string>
 		</array>
 		<key>category</key>
-		<string>Dev</string>
+		<string>Developing</string>
 		<key>description</key>
 		<string>Editor de textos Sublime</string>
 		<key>developer</key>
@@ -1678,6 +1371,7 @@
 		<key>catalogs</key>
 		<array>
 			<string>testing</string>
+			<string>Production</string>
 		</array>
 		<key>category</key>
 		<string>Audio e Video</string>
@@ -1744,138 +1438,7 @@
 		<key>catalogs</key>
 		<array>
 			<string>testing</string>
-		</array>
-		<key>category</key>
-		<string>Audio e Video</string>
-		<key>description</key>
-		<string>Editor de imagens Open Source</string>
-		<key>developer</key>
-		<string>GIMP</string>
-		<key>display_name</key>
-		<string>Gimp</string>
-		<key>installer_item_hash</key>
-		<string>52654d85f894834f6c134c724beff3eddf212a1bda317299314322cfeff97e52</string>
-		<key>installer_item_location</key>
-		<string>apps/gimp/gimp-2.10.14-x86_64-1-2.10.14.dmg</string>
-		<key>installer_item_size</key>
-		<integer>167422</integer>
-		<key>installer_type</key>
-		<string>copy_from_dmg</string>
-		<key>installs</key>
-		<array>
-			<dict>
-				<key>CFBundleIdentifier</key>
-				<string>org.gimp.gimp-2.10:</string>
-				<key>CFBundleName</key>
-				<string>GIMP-2.10</string>
-				<key>CFBundleShortVersionString</key>
-				<string>2.10.14</string>
-				<key>CFBundleVersion</key>
-				<string>2.10.14</string>
-				<key>path</key>
-				<string>/Applications/GIMP-2.10.app</string>
-				<key>type</key>
-				<string>application</string>
-				<key>version_comparison_key</key>
-				<string>CFBundleShortVersionString</string>
-			</dict>
-		</array>
-		<key>items_to_copy</key>
-		<array>
-			<dict>
-				<key>destination_path</key>
-				<string>/Applications</string>
-				<key>source_item</key>
-				<string>GIMP-2.10.app</string>
-			</dict>
-		</array>
-		<key>minimum_os_version</key>
-		<string>10.4.0</string>
-		<key>name</key>
-		<string>GIMP-2.10</string>
-		<key>unattended_install</key>
-		<false/>
-		<key>unattended_uninstall</key>
-		<false/>
-		<key>uninstall_method</key>
-		<string>remove_copied_items</string>
-		<key>uninstallable</key>
-		<true/>
-		<key>version</key>
-		<string>2.10.14</string>
-	</dict>
-	<dict>
-		<key>autoremove</key>
-		<false/>
-		<key>catalogs</key>
-		<array>
-			<string>testing</string>
-		</array>
-		<key>category</key>
-		<string>Audio e Video</string>
-		<key>description</key>
-		<string>Editor de Imagens Open Source</string>
-		<key>developer</key>
-		<string>GIMP</string>
-		<key>display_name</key>
-		<string>Gimp</string>
-		<key>installer_item_hash</key>
-		<string>52654d85f894834f6c134c724beff3eddf212a1bda317299314322cfeff97e52</string>
-		<key>installer_item_location</key>
-		<string>apps/gimp/gimp-2.10.14-x86_64-1__1.dmg</string>
-		<key>installer_item_size</key>
-		<integer>167422</integer>
-		<key>installer_type</key>
-		<string>copy_from_dmg</string>
-		<key>installs</key>
-		<array>
-			<dict>
-				<key>CFBundleIdentifier</key>
-				<string>org.gimp.gimp-2.10:</string>
-				<key>CFBundleName</key>
-				<string>GIMP-2.10</string>
-				<key>CFBundleShortVersionString</key>
-				<string>2.10.14</string>
-				<key>CFBundleVersion</key>
-				<string>2.10.14</string>
-				<key>path</key>
-				<string>/Applications/GIMP-2.10.app</string>
-				<key>type</key>
-				<string>application</string>
-				<key>version_comparison_key</key>
-				<string>CFBundleShortVersionString</string>
-			</dict>
-		</array>
-		<key>items_to_copy</key>
-		<array>
-			<dict>
-				<key>destination_path</key>
-				<string>/Applications</string>
-				<key>source_item</key>
-				<string>GIMP-2.10.app</string>
-			</dict>
-		</array>
-		<key>minimum_os_version</key>
-		<string>10.4.0</string>
-		<key>name</key>
-		<string>GIMP-2.10</string>
-		<key>unattended_install</key>
-		<false/>
-		<key>unattended_uninstall</key>
-		<false/>
-		<key>uninstall_method</key>
-		<string>remove_copied_items</string>
-		<key>uninstallable</key>
-		<true/>
-		<key>version</key>
-		<string>2.10.14</string>
-	</dict>
-	<dict>
-		<key>autoremove</key>
-		<false/>
-		<key>catalogs</key>
-		<array>
-			<string>testing</string>
+			<string>Production</string>
 		</array>
 		<key>category</key>
 		<string>Tools</string>
